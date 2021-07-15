@@ -372,6 +372,7 @@ def display_data(df):
 
 
 def main():
+    ''' Function to compute and display the bike share usage statistics.'''
     while True:
         # Read the city name, the montly filter and the daily filter.
         city, month, day = get_filters()
