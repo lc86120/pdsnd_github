@@ -4,7 +4,7 @@
 The project was created on July 15, 2021.
 
 ### Project Title
-Uncover the patterns in bike share usage in Chicago, New York City and Washington DC.
+Uncovering bike share usage statistics
 
 ### Description
 The project provides an interactive experience in the terminal that investigates
@@ -17,6 +17,4 @@ The input bike share data is contained the files chicago.csv, new_york_city.csv,
 and washington.csv .
 
 ### Credits
-The project is compulsory requirement of the Programming for Data Science with
-Python Nanodegree Program of Udacity
-(https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
+Udacity nanodegree program in Programming for Data Science with Python.
