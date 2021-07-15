@@ -4,7 +4,7 @@
 The project was created on July 15, 2021.
 
 ### Project Title
-Replace the Project Title
+Uncover the patterns in bike share usage in Chicago, New York City and Washington.
 
 ### Description
 Describe what your project is about and what it does
