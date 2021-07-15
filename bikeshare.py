@@ -45,7 +45,7 @@ def get_filters():
         finally:
             print('Selection city ' + exit_message)
 
-    # get user input for month (all, january, february, ... , june)
+    # get user input for whether to filter by month or not
     while True:
         try:
             bool_month = str(input('Would you like to filter the data by month or not at all?\n'))
@@ -63,7 +63,7 @@ def get_filters():
         finally:
             print('Selection monthly filter ' + exit_message)
 
-
+    # get user input for the month filter (e.g. january, june)
     if bool_month == None:
         month = None
     else:
