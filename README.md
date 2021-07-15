@@ -7,10 +7,12 @@ July 15, 2021
 Uncovering bike share usage statistics
 
 ### Description
-Describe what your project is about and what it does
+The program provides an interactive user experience with a terminal interface
+to analyse the statistics of the bike share usage in three large US cities:
+Chicago, New York City and Washington DC.
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity nanodegree program in Programming for Data Science with Python.
